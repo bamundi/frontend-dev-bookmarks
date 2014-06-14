@@ -279,6 +279,7 @@
         + [ProfoundGrid](http://www.profoundgrid.com/)
         + [Groundwork](http://groundwork.sidereel.com/): GroundworkCSS's flexible grid system enables you to do rapid development and scales to fit any screen size, from handheld devices to large format televisions.
         + [skelJS](http://skeljs.org/)
+        + [Nouveau](http://www.nouveauframework.com/): A Wicked-simple WordPress Framework with Zurb Foundation. 
         + [Ink](http://ink.sapo.pt): Ink is a set of tools for quick development of web interfaces.
         + [neat](http://neat.bourbon.io/): A lightweight semantic grid framework for Sass and Bourbon.
         + [Kube](http://imperavi.com/kube/)
